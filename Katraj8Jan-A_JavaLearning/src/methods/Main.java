@@ -1,0 +1,14 @@
+package methods;
+
+public class Main {
+
+	public static void main(String[]args) {
+	
+		int a = 127;
+		int b = 127;
+		
+		int c = a+b;
+		
+		System.out.println(c);
+	}
+}
